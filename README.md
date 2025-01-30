@@ -1,1 +1,3 @@
-# Seven-Terms
+# Key Programming Terms
+
+During my time at code school, I have learned about seven new terms that have significantly enhanced my understanding of programming and software development. These terms have provided me with a deeper insight into various concepts and practices that are essential for any aspiring developer. In this document, I will share my learnings and experiences with these terms, explaining their importance and how they have contributed to my growth as a coder.
